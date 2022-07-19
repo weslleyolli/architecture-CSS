@@ -1,0 +1,13 @@
+.RecipeButton {
+    background: #8d0606;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .2s ease-in-out;
+}
+
+.RecipeButton:hover {
+    background: #620404 ;
+    cursor: pointer;
+}

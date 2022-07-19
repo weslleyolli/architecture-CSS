@@ -1,0 +1,17 @@
+.Peoples {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+@media screen and (min-width: 0) {
+    .Peoples {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768PX) {
+    .Peoples {
+        flex-direction: row;
+    }
+}

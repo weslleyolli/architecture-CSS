@@ -1,0 +1,16 @@
+.About {
+    padding: 2.5rem;
+    text-align: center;
+}
+
+@media screen and (min-width: 0) {
+    .About {
+        padding: 2.5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .About {
+        padding: 2.5rem;
+    }
+}

@@ -1,0 +1,7 @@
+.MenuItens {
+    list-style: none;
+}
+
+.MenuItens:last-child .MenuLink{
+    margin-right: 0;
+}
